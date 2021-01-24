@@ -1,0 +1,91 @@
+.login-container{
+  width:100%;
+  max-width: 1920px;
+  min-width:800px;
+  display:table;
+  height:100%;
+  margin:auto;
+  background: #ffffff;
+}
+
+.app-details-container{
+  padding:10px;
+  width: 60%;
+  height: 100%;
+  max-width:1152px;
+  float:left;
+  display:inline-table;
+}
+
+.login-form-container{
+  padding:100px;
+  width: 40%;
+  height:100%;
+  max-width:768px;
+  float:left;
+  display:inline-table;
+}
+
+.login-form-footer{
+  width:100%;
+  display:inline-table;
+  margin-top:30px;
+}
+
+.login-link{
+  text-align:left;
+  display:inline-block;
+  font-size: 20px;
+}
+
+.login-link-span{
+    color: white;
+    text-align: left;
+    float: left;
+}
+
+.login-link:hover, :active{
+  text-decoration: none;
+}
+
+.app-header-panel{
+width:100%;
+margin-bottom: 45px;
+}
+
+.app-caption{
+  width:100%;
+  text-align: left;
+  font-size:18px;
+  color: #D4D5D5;
+}
+
+.btn-login{
+    width: 20%;
+    margin-top:10px;
+    float: left;
+    background-color: #003259;
+    color: white;
+    border-color: transparent;
+}
+
+#field{
+  height: 50px !important;
+}
+
+label{
+    display: inline-block;
+    margin-bottom: .5rem;
+    font-size: large;
+    text-align: left;
+    width: 100%;
+    color: black;
+}
+
+.centerImage{
+  display: inline-table;
+  float: left;
+  padding:70px;
+  height: 800px;
+  width: 70%;
+}

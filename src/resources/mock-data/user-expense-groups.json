@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "userId":1,
+    "expGrp":"TEAM-CORE",
+    "joinedOn":"11-02-2018",
+    "comments":"",
+    "active":true
+  },
+  {
+    "id":2,
+    "userId":1,
+    "expGrp":"TEAM-DEADMEN",
+    "joinedOn":"11-02-2018",
+    "comments":"",
+    "active":true
+  }
+]

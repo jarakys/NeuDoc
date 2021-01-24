@@ -1,0 +1,18 @@
+[
+  {
+    "userId":1,
+    "lastName":"Drake",
+    "firstName":"Nathan",
+    "middleName":"",
+    "fullName":"Nathan Drake",
+    "address":"",
+    "city":"Kurnool",
+    "state":"AP",
+    "zip":"518004",
+    "phone":"+91-8939715245",
+    "email":"mannebrahmateja@gmail.com",
+    "country":"IN",
+    "createdOn":"11/02/2018",
+    "active":true
+  }
+]

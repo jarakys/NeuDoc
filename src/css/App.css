@@ -1,0 +1,100 @@
+.app {
+  text-align: center;
+}
+
+.app-main-view{
+  width:100%;
+  height:100%;
+  display:block;
+}
+
+.display-none{
+  display:none !important;
+}
+
+.app-header {
+  background-color: #222;
+  height: 80px;
+  padding: 5px 20px 5px 5px;
+  color: white;
+}
+
+.app-header-menu-dock{
+width:calc(100% - 400px);
+float:left;
+}
+
+.app-header-settings-dock{
+width:400px;
+float:right;
+}
+
+.view-scroll-container{
+  width:100%;
+  height: calc(100% - 82px);
+  overflow: auto;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.navbar-brand{
+  font-size: 24px;
+  color: #8BC34A !important;
+  margin-right:64px;
+}
+
+.app-icon{
+  padding: 0 4px;
+}
+
+.menu-anchor-btn{
+  margin-left: 10px;
+  font-size: 18px;
+  color: #689F38 !important;
+  text-decoration: none !important;
+  padding: 20px 4px;
+  cursor: pointer;
+}
+
+.app-config-menu-btn{
+  width: 150px;
+  float:left;
+  margin: 0px 35px 0 0;
+}
+
+.app-config-menu-lbl{
+  width: 100%;
+  text-align: left;
+  font-size: 13px;
+  font-weight: normal;
+  color: #8BC34A;
+}
+
+.apply-config-btn{
+  padding: 3px 15px !important;
+  float: left;
+  margin: 30px 35px 0 0;
+}
+
+
+.form-control{
+  height: 40px !important;
+  padding: 5px 10px !important;
+}
+
+.navbar-expand .navbar-nav .nav-link{
+  padding: 7px 15px;
+  color: #999;
+  font-size:18px;
+}
+
+.navbar-expand .navbar-nav > .active > a,
+.navbar-expand .navbar-nav > .active > a:focus,
+.navbar-expand .navbar-nav > .active > a:hover{
+  border-bottom:2px solid #8BC34A;
+  color: #FFF;
+}
